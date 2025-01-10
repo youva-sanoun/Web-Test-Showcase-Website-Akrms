@@ -25,7 +25,7 @@ export default function HomePage() {
         />
         <div className="absolute inset-0 z-20 flex flex-col items-center justify-center text-center">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-wider mb-4">
-            Akrms Corner
+            miniature
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 tracking-wide mb-8">
             the choice to feel the drive
@@ -147,7 +147,7 @@ export default function HomePage() {
                 Crafting Miniature Excellence
               </h2>
               <p className="text-gray-400 mb-8">
-                At Akrms Corner, we&apos;re passionate about bringing the
+                At miniature, we&apos;re passionate about bringing the
                 world&apos;s most iconic automobiles to life in perfect
                 miniature form. Our dedication to detail and quality has made us
                 the premier destination for collectors and enthusiasts alike.
@@ -164,7 +164,7 @@ export default function HomePage() {
             <div className="relative aspect-square">
               <Image
                 src="/images/showcase.jpg"
-                alt="About Akrms Corner"
+                alt="About miniature"
                 width={600}
                 height={600}
                 className="rounded-lg object-cover w-full h-full"
@@ -204,7 +204,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center gap-8">
             <div className="text-center md:text-left">
-              <h3 className="text-xl font-bold mb-2">Akrms Corner</h3>
+              <h3 className="text-xl font-bold mb-2">miniature</h3>
               <p className="text-sm text-gray-400">
                 The choice to feel the drive
               </p>
@@ -231,7 +231,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-neutral-800 text-center text-sm text-gray-400">
-            © {new Date().getFullYear()} Akrms Corner. All rights reserved.
+            © {new Date().getFullYear()} miniature. All rights reserved.
           </div>
         </div>
       </footer>

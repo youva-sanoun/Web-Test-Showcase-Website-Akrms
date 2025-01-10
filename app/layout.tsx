@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Akrms Corner",
+  title: "miniature",
   description: "The choice to feel the drive",
 };
 
