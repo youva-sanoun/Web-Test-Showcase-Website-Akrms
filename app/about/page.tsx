@@ -6,7 +6,6 @@ import {
   Clock,
   Package,
   Truck,
-  ArrowRight,
   Sparkles,
   Globe,
   Trophy,
